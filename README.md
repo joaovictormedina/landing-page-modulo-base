@@ -1,6 +1,3 @@
-Aqui está o README formatado conforme suas instruções, para o projeto `landing-page-modulo-base`:
-
-```markdown
 # Landing Page - Módulo Base
 
 ## Descrição
